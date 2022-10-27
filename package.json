@@ -1,10 +1,16 @@
 {
-  "name": "3yXDozjYGczGVpGjXlCCQVEftE2U0n10MkqBzcghTD9ayxWgOy",
+  "name": "หวยหุ้น พังงา สมัครยังไง - เว็บใหม่ 999lucky 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.37",
   "description": "หวยหุ้น พังงา เลขเด็ด ใน หวยหุ้น พังงา 999Lucky ลัคกี้ หวยออนไลน์ มีหวยทุกชนิด เจ๊นุ๊ก หวยหุ้น พังงา หวยรัฐบาล งวดวันที่ 16665เว็บ ซื้อหวยออนไลน์ เว็บรีวิว",
   "repository": "https://github.com/gullibles-02/underdoor-10",
-  "keywords": ["หวยหุ้น พังงา","หวยหุ้น","พังงา","หวยหุ้น 999Lucky","พังงา 999Lucky"],
+  "keywords": [
+    "หวยหุ้น พังงา",
+    "หวยหุ้น",
+    "พังงา",
+    "หวยหุ้น 999Lucky",
+    "พังงา 999Lucky"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
