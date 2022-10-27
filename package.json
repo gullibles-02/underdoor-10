@@ -1,10 +1,16 @@
 {
-  "name": "wiCye6i9cKJ5QwnMC5Hq1GhgTDyWIgHNq7Je0ScZOftYxc1RFU",
+  "name": "huaysod plus มีคำตอบ - เว็บใหม่ huaylike 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.7",
   "description": "HUAYSOD PLUS หวยมาเลย์ หรือ HUAYSOD PLUS Huaylike หวยออนไลน์ อันดับหนึ่ง เป็นหวยนำมาออกรางวัล จากหวยของประเทศมาเลย์เซีย ที่กำลังเป็นที่นิยมเล่นเป็นอย่างมาก",
   "repository": "https://github.com/gullibles-02/underdoor-10",
-  "keywords": ["HUAYSOD PLUS","HUAYSOD","PLUS","HUAYSOD Huaylike","PLUS Huaylike"],
+  "keywords": [
+    "HUAYSOD PLUS",
+    "HUAYSOD",
+    "PLUS",
+    "HUAYSOD Huaylike",
+    "PLUS Huaylike"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
