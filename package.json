@@ -1,18 +1,10 @@
 {
-  "name": "หวยออนไลน์ เว็บไหนดี pantip สมัครยังไง - เว็บใหม่ thailotto 2023 ล่าสุด",
+  "name": "v4djY6XLSYyfBM16cMRgdGCUZXPVgERz48zFnDXCXqzNJP1sq7",
   "theme": "syntax",
   "version": "1.0.53",
   "description": "หวยออนไลน์ เว็บไหนดี pantip ชุดเด่น แม้ หวยออนไลน์ เว็บไหนดี pantip Thailotto หวยออนไลน์ อันดับหนึ่ง 1 คู่โต๊ด 5-7 ได้ชุดเลข 3 ตัว และ 2 ตัวดังนี้901-910-0",
   "repository": "https://github.com/gullibles-02/underdoor-10",
-  "keywords": [
-    "หวยออนไลน์ เว็บไหนดี PANTIP",
-    "หวยออนไลน์",
-    "เว็บไหนดี",
-    "PANTIP",
-    "หวยออนไลน์ Thailotto",
-    "เว็บไหนดี Thailotto",
-    "PANTIP Thailotto"
-  ],
+  "keywords": ["หวยออนไลน์ เว็บไหนดี PANTIP","หวยออนไลน์","เว็บไหนดี","PANTIP","หวยออนไลน์ Thailotto","เว็บไหนดี Thailotto","PANTIP Thailotto"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
