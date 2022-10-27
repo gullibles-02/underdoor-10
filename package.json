@@ -1,10 +1,13 @@
 {
-  "name": "j2ZvqQgU7252soFNWv3l7YV5vLY214F2sBVB85vsNt9hgwbPXw",
+  "name": "ตรวจหวย1765 ที่ไหน - เว็บใหม่ huaysod 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.17",
   "description": "ตรวจหวย1/7/65 สูตรหวยลาว แม้ว่า ตรวจหวย1/7/65 Huaysod หวยออนไลน์ อันดับหนึ่ง แม่นๆ แนวทางเลขเด็ดหวยลาววันนี้ ตรวจหวย1/7/65 การันตีความปังด้วยการใช้สูตรหวยท",
   "repository": "https://github.com/gullibles-02/underdoor-10",
-  "keywords": ["ตรวจหวย1/7/65","ตรวจหวย1/7/65 Huaysod"],
+  "keywords": [
+    "ตรวจหวย1/7/65",
+    "ตรวจหวย1/7/65 Huaysod"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
