@@ -1,13 +1,10 @@
 {
-  "name": "หวยหุ้นรัสเซียออกกี่โมง เล่นยังไง - เว็บใหม่ huay happy 2023 ล่าสุด-",
+  "name": "sTKBzYhqAYKCc8XCUFIXxu35zhVEpQWRme7H9SYyK3Lg6GJOYE",
   "theme": "syntax",
   "version": "1.0.75",
   "description": "หวยหุ้นรัสเซียออกกี่โมง ใครเล่นหวยฮานอย ว่า หวยหุ้นรัสเซียออกกี่โมง Huay Happy หวยออนไลน์ อันดับหนึ่ง Vipไม่เป็น ต้องเข้ามาอ่านที่ตรงนี้ รับรองว่าอ่านจบเล่",
   "repository": "https://github.com/gullibles-02/underdoor-10",
-  "keywords": [
-    "หวยหุ้นรัสเซียออกกี่โมง",
-    "หวยหุ้นรัสเซียออกกี่โมง Huay Happy"
-  ],
+  "keywords": ["หวยหุ้นรัสเซียออกกี่โมง","หวยหุ้นรัสเซียออกกี่โมง Huay Happy"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
