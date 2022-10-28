@@ -1,10 +1,13 @@
 {
-  "name": "kqr6KuoKZw5GYYrd65h40QvgRC9LVQvY1V5zFRkdObT779k2mN",
+  "name": "สูตรหวยหุ้น แตกต่างกันอย่างไร - เว็บใหม่ huay happy 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.83",
   "description": "สูตรหวยหุ้น เลข เนื่องจาก สูตรหวยหุ้น Huay Happy หวยแฮปปี้ หวยออนไลน์ มีหวยทุกชนิด 3 ตัว           441 798ฟัน 7777 (79)วิ่ง รูด สูตรหวยหุ้น 7 9ขอให้สนุกกับ",
   "repository": "https://github.com/gullibles-02/underdoor-10",
-  "keywords": ["สูตรหวยหุ้น","สูตรหวยหุ้น Huay Happy"],
+  "keywords": [
+    "สูตรหวยหุ้น",
+    "สูตรหวยหุ้น Huay Happy"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
