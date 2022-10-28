@@ -1,10 +1,16 @@
 {
-  "name": "XJhP64OQ1EoXCDT2Au2vS8HsnDSwl7W97hF2UYxT27q4Sltn1L",
+  "name": "เกมยิงปลา pantip ทำไมถึงนิยม - เว็บใหม่ sawan888 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.70",
   "description": "เกมยิงปลา pantip สมัครเล่น โดย เกมยิงปลา pantip Sawan888 เว็บพนันออนไลน์ อันดับหนึ่ง ยูฟ่า สล็อต พร้อมอัตราจ่ายสูงสุด สร้างประสบการณ์เล่นเกมบนมือถือที่ดีที",
   "repository": "https://github.com/gullibles-02/underdoor-10",
-  "keywords": ["เกมยิงปลา PANTIP","เกมยิงปลา","PANTIP","เกมยิงปลา Sawan888","PANTIP Sawan888"],
+  "keywords": [
+    "เกมยิงปลา PANTIP",
+    "เกมยิงปลา",
+    "PANTIP",
+    "เกมยิงปลา Sawan888",
+    "PANTIP Sawan888"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
